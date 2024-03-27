@@ -1,0 +1,10 @@
+/*void main() {
+String nome = 'galinha';
+  bool? temcarro;
+  
+  if (temcarro == true) {
+    print ( '${nome} atravessar a rua');
+  } else if(temcarro == null) {
+    print( '${nome}  Não atravessar a rua');
+  };
+}*/
