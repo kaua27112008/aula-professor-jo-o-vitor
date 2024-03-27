@@ -1,0 +1,12 @@
+void main() {
+  
+  String nome = 'Cleitron';
+    int idade = 17;
+  
+  if (idade >= 18) {
+    print('${nome} pode tirar a carteira');
+  }
+  else{
+    print('${nome} não pode tirar a carteira');
+  }
+}
