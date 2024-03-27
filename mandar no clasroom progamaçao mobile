@@ -1,0 +1,17 @@
+void main() {
+String nome = 'joão';
+  int idade = 28;
+
+  if(idade <14){
+    print('${nome} é uma criança' );
+  }
+  if(idade >14 && idade <18){
+    print('${nome} é um adolescente');
+  }
+  if(idade >= 18 && idade <= 59){
+    print('${nome} é um adulto');
+  }
+  if(idade >= 60){
+    print('${nome} é um idoso');
+  }
+}
